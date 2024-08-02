@@ -24,7 +24,10 @@ pico_add_extra_outputs(main)
 
 target_link_libraries(main
 	pico_stdlib
+<<<<<<< HEAD
     hardware_pwm
+=======
+>>>>>>> efaf456 (added vscode)
 	# other libs as needed
 )
 
